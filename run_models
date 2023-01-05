@@ -1,0 +1,9 @@
+python3 models/dummy_classifier_model.py
+python3 models/ada_boost_model.py
+python3 models/mlp_model.py
+python3 models/decision_tree_model.py
+python3 models/multinomial_logistic_regression_model.py
+python3 models/naive_bayes_classifier_model.py
+python3 models/random_forest_model.py
+python3 models/svm_model.py
+python3 models/xgboost_model.py

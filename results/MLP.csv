@@ -1,0 +1,4 @@
+Model Name,batch_size,epochs,Accuracy
+CNN,4,20,0.7439
+Test Data Accuracy
+0.7439
